@@ -40,7 +40,7 @@ git clone https://github.com/hd-code/SportsWorld.git
 # 2. in den Ordner des Projektes wechseln
 cd SportsWorld
 
-# 3. Docker Image mit dem Namen 'tam' bauen, mittels:
+# 3. Docker Image mit dem Namen 'sw' bauen, mittels:
 docker build -t sw .
 ```
 
